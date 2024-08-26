@@ -1,5 +1,4 @@
 #!/bin/bash
-#desc-add teo numbers"
 #addition of two numbers
 
 echo "enter n1"
